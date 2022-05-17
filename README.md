@@ -2,7 +2,6 @@
 
 ### Requisitos
 - [x] Should be able to create a new user;
-- [x] Deve permitir criar um novo *todo* para o usuário;
 - [x] Should be able to list all user's todos;
 - [x] Should be able to create a new todo;
 - [x] Should be able to update a todo;
